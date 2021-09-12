@@ -1,0 +1,15 @@
+{
+  "name": "harry-poter-app",
+  "version": "1.0.0",
+  "description": "harry-potter-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^2.5.6"
+  }
+}
